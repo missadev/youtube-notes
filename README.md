@@ -1,2 +1,2 @@
 # youtube-notes
-Notes for 
+Notes for all videos in my youtube channel
