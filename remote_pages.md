@@ -53,7 +53,7 @@
 
 # References
 
-### Recomendations
+### Recomendations wit tips
 
 1. https://www.youtube.com/watch?v=koyIY12rZUo
 2. https://www.youtube.com/watch?v=RyZEO62V3v4
