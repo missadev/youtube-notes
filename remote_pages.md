@@ -47,7 +47,7 @@
 20. [https://remotolist.com](https://remotolist.com/)
 21. [https://snaphunt.com](https://snaphunt.com/)
 22. [https://techinasia.com](https://techinasia.com/)
-23. [https://vanhack.com](https://vanhack.com/)
+23. [https://vanhack.com](https://vanhack.com/referral/welcome/missaeleng)
 24. [https://wellfound.com](https://wellfound.com/)
 25. [https://weremoto.com](https://weremoto.com/)
 26. [https://weworkremotely.com](https://weworkremotely.com/)
