@@ -14,7 +14,6 @@
 | DotCSV                   | https://www.youtube.com/@DotCSV               | AI       |
 | DotDager                 | https://www.youtube.com/@DotDager             | Tech     |
 | Fazt Code                | https://www.youtube.com/@FaztCode             | Tech     |
-| Fireship                 | https://www.youtube.com/@Fireship             | Tech     |
 | freeCodeCamp             | https://www.youtube.com/@freecodecamp         | Tech     |
 | Future Tools             | https://www.futuretools.io/                   | AI       |
 | Learn Prompting Guide    | https://learnprompting.org/                   | AI       |
@@ -22,8 +21,6 @@
 | Learn Prompting Tools    | https://learnprompting.org/docs/tooling/tools | AI       |
 | Linux Chad               | https://www.youtube.com/@LinuxChad            | Tech     |
 | Luis Mendoza Tech        | https://www.youtube.com/@LuisMendozaTech      | Tech     |
-| Matflow                  | https://www.youtube.com/@mreflow              | AI       |
-| Midudev                  | https://www.youtube.com/@midudev              | Tech     |
 | MoureDev                 | https://www.youtube.com/@mouredev/featured    | Tech     |
 | NeetCode                 | https://www.youtube.com/@NeetCodeIO           | Tech     |
 | Platzi                   | https://www.youtube.com/@Platzi               | Tech     |
