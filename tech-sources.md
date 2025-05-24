@@ -10,6 +10,7 @@
 
 | Name                     | Link                                          | Category |
 | ------------------------ | --------------------------------------------- | -------- |
+| Afor Lives               | https://www.youtube.com/@afor_lives           | Tech     |
 | Awesome ChatGPT Prompts  | https://github.com/f/awesome-chatgpt-prompts  | AI       |
 | DotCSV                   | https://www.youtube.com/@DotCSV               | AI       |
 | DotDager                 | https://www.youtube.com/@DotDager             | Tech     |
